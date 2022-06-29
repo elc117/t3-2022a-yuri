@@ -79,6 +79,6 @@ No geral foi muito interessante ver como a programação funcional está present
 
 
 ### Referências
-(https://machinelearningmastery.com/functional-programming-in-python/)
-(https://www.freelancinggig.com/blog/2019/01/07/haskell-vs-python-what-you-need-to-know/)
-(https://acervolima.com/programacao-funcional-em-python/)
+[-] (https://machinelearningmastery.com/functional-programming-in-python/)
+[-] (https://www.freelancinggig.com/blog/2019/01/07/haskell-vs-python-what-you-need-to-know/)
+[-] (https://acervolima.com/programacao-funcional-em-python/)
